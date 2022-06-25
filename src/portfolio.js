@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Abdul Samad Portfolio",
     type: "website",
-    url: "http://abdulsamad.com/",
+    url: "http://abdulsamaddev.github.io/portfolio-website/",
   },
 };
 
